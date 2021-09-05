@@ -1,2 +1,2 @@
 # SultanzadeFilo
-Sultanzade C
+timer = 2
