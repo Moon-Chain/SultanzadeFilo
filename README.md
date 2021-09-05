@@ -1,2 +1,4 @@
 # SultanzadeFilo
-timer = 2
+array(
+$timer = "2";
+);
