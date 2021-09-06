@@ -1,2 +1,3 @@
 # SultanzadeFilo
-Change Description 
+Settings Value
+[timer],[error_luck],[error_limit]
